@@ -1,0 +1,1 @@
+sudo unzip navit_icons.zip -d /usr/share/navit/icons/
